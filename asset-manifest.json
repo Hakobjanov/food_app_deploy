@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/food_app_deploy/static/css/main.92e774fc.chunk.css",
+    "main.js": "/food_app_deploy/static/js/main.b09b131b.chunk.js",
+    "main.js.map": "/food_app_deploy/static/js/main.b09b131b.chunk.js.map",
+    "runtime-main.js": "/food_app_deploy/static/js/runtime-main.d437c434.js",
+    "runtime-main.js.map": "/food_app_deploy/static/js/runtime-main.d437c434.js.map",
+    "static/css/2.18e5b7a7.chunk.css": "/food_app_deploy/static/css/2.18e5b7a7.chunk.css",
+    "static/js/2.b560f7a6.chunk.js": "/food_app_deploy/static/js/2.b560f7a6.chunk.js",
+    "static/js/2.b560f7a6.chunk.js.map": "/food_app_deploy/static/js/2.b560f7a6.chunk.js.map",
+    "index.html": "/food_app_deploy/index.html",
+    "precache-manifest.3a3a3b64871e59922c231efb0ebf32c1.js": "/food_app_deploy/precache-manifest.3a3a3b64871e59922c231efb0ebf32c1.js",
+    "service-worker.js": "/food_app_deploy/service-worker.js",
+    "static/css/2.18e5b7a7.chunk.css.map": "/food_app_deploy/static/css/2.18e5b7a7.chunk.css.map",
+    "static/css/main.92e774fc.chunk.css.map": "/food_app_deploy/static/css/main.92e774fc.chunk.css.map",
+    "static/js/2.b560f7a6.chunk.js.LICENSE": "/food_app_deploy/static/js/2.b560f7a6.chunk.js.LICENSE",
+    "static/media/bigstory.css": "/food_app_deploy/static/media/1.f0bb9f93.jpg",
+    "static/media/arrowToRight.svg": "/food_app_deploy/static/media/arrowToRight.b7caa255.svg",
+    "static/media/author.jpg": "/food_app_deploy/static/media/author.b7dbcaad.jpg",
+    "static/media/bg_2.jpg": "/food_app_deploy/static/media/bg_2.1b8fac28.jpg",
+    "static/media/rogerimg.css": "/food_app_deploy/static/media/bg_3.6ba54e47.jpg",
+    "static/media/foodpageintro.css": "/food_app_deploy/static/media/bg_4.43268711.jpg",
+    "static/media/statsbg.css": "/food_app_deploy/static/media/bg_5.16fd90be.jpg",
+    "static/media/email-envelope-button.svg": "/food_app_deploy/static/media/email-envelope-button.d3078c7f.svg",
+    "static/media/facebook.svg": "/food_app_deploy/static/media/facebook.a8f4bf47.svg",
+    "static/media/instagram.svg": "/food_app_deploy/static/media/instagram.edbdd8cc.svg",
+    "static/media/magnifying-glass.svg": "/food_app_deploy/static/media/magnifying-glass.1d59e3c7.svg",
+    "static/media/pin.svg": "/food_app_deploy/static/media/pin.328e0f25.svg",
+    "static/media/play-button-arrowhead.svg": "/food_app_deploy/static/media/play-button-arrowhead.2be1e204.svg",
+    "static/media/slick-theme.css": "/food_app_deploy/static/media/slick.f97e3bbf.svg",
+    "static/media/telegram.svg": "/food_app_deploy/static/media/telegram.b0324aad.svg",
+    "static/media/telephone-handle-silhouette.svg": "/food_app_deploy/static/media/telephone-handle-silhouette.bbe88ba7.svg",
+    "static/media/twitter.svg": "/food_app_deploy/static/media/twitter.5790426f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d437c434.js",
+    "static/css/2.18e5b7a7.chunk.css",
+    "static/js/2.b560f7a6.chunk.js",
+    "static/css/main.92e774fc.chunk.css",
+    "static/js/main.b09b131b.chunk.js"
+  ]
+}
