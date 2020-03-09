@@ -17,21 +17,21 @@ class FoodsPageArticles extends Component {
   }
 
   render() {
-      const { 
-          foodPageArticlesData, 
+      const {
+          foodPageArticlesData,
           filterFn,
-          toggleLike 
-        } = this.props
+          toggleLike
+        } = this.props;
     return (
       <div className="postsItems foodPageArticles">
-        {foodPageArticlesData
-          .filter(filterFn)
-          .map(({ id, image, category, year, title, isLiked }) => (
+        { foodPageArticlesData
+          .filter( filterFn )
+          .map( ( { id, image, category, year, title, isLiked } ) => (
             <SingleFoodArticle
               key={id}
               {...{ id, image, category, year, title, isLiked, toggleLike }}
             />
-          )).slice(0, this.state.items)}
+          ) ).slice(0, this.state.items)}
         <LoadMoreBtn loadMoreFn={this.loadMoreFn} />
       </div>
     );

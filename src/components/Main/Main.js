@@ -13,17 +13,17 @@ function Main({
 }) {
   return (
       <div className="main">
-        <Stories 
-          foodPageArticlesData={foodPageArticlesData}
+        <Stories
+          foodPageArticlesData={ foodPageArticlesData }
           toggleLike={toggleLike}
           />
-  
+
         <Posts />
-  
+
         <Roger />
-  
+
         <Stats />
-  
+
         <Subs />
       </div>
   );
